@@ -144,7 +144,8 @@ separator: {
    fontWeight: '900'
 },
 placeInput: {
-  width: "80%"
+  width: "80%",
+  height: 50
 },
 placeButton : {
   width: "30%"
